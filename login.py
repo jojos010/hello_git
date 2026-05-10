@@ -1,2 +1,7 @@
 print("Este es un inicio de sesion")
 print("INGRESE DATOS DE USUARIO")
+nombre=input("Ingrese su nombre: ")
+apellido=input("Ingrese su apellido: ")
+numero_cel=int(input("Ingrese su numero de celular: "))
+print("DATOS GUARDADOS")
+print(f"Nombre completo: {nombre+" "+apellido}\nNumero de celular: {numero_cel}")
