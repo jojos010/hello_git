@@ -1,1 +1,4 @@
 print("este es un nuevo archivo :)")
+x=int(input("ingresa un numero:"))
+y=int(input("ingresa otro numero:"))
+print(f"la suma total de {x} y {y} es: {x+y}")
