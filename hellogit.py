@@ -1,1 +1,3 @@
 print("hola git")
+print("ESTE ES NUESTRO MENU DE OPCIONES")
+print("SUMA \nRESTA \nMULTIPLICACION \nDIVISION")
